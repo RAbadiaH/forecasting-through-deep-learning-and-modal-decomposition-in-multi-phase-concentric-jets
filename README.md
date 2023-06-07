@@ -1,5 +1,5 @@
-# forecasting-through-deep-learning-and-modal-decomposition-in-multi-phase-concentric-jets
-Code of the paper: "Forecasting through deep learning and modal decomposition in multi-phase concentric jets"
+# forecasting-through-deep-learning-and-modal-decomposition-in-two-phase-concentric-jets
+Code of the paper: "Forecasting through deep learning and modal decomposition in two-phase concentric jets"
 
 This repository contains the code of one model and two dataset files for the paper: "Forecasting through deep learning and modal decomposition in two-phase concentric jets", L. Mata, R. Abadia-Heredia, M. Lopez-Martin, J.M. Perez and S. Le Clainche. https://arxiv.org/abs/2212.12731.
 
